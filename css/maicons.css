@@ -1345,7 +1345,7 @@
 .mai-logo-facebook:before {
   content: "\ebe0";
 }
-.mai-logo-facebook-f:before {
+.fa fa-facebook span-social:before {
   content: "\ebe1";
 }
 .mai-logo-facebook-messenger:before {
@@ -1396,25 +1396,25 @@
 .mai-logo-glide-g:before {
   content: "\ebf1";
 }
-.mai-logo-google:before {
+.fa fa-google span-social:before {
   content: "\ebf2";
 }
-.mai-logo-google-drive:before {
+.fa fa-google span-social-drive:before {
   content: "\ebf3";
 }
-.mai-logo-google-play:before {
+.fa fa-google span-social-play:before {
   content: "\ebf4";
 }
-.mai-logo-google-playstore:before {
+.fa fa-google span-social-playstore:before {
   content: "\ebf5";
 }
-.mai-logo-google-plus:before {
+.fa fa-google span-social-plus:before {
   content: "\ebf6";
 }
-.mai-logo-google-plus-g:before {
+.fa fa-google span-social:before {
   content: "\ebf7";
 }
-.mai-logo-google-wallet:before {
+.fa fa-google span-social-wallet:before {
   content: "\ebf8";
 }
 .mai-logo-grunt:before {
@@ -1438,7 +1438,7 @@
 .mai-logo-imdb:before {
   content: "\ebff";
 }
-.mai-logo-instagram:before {
+.fa fa-instagram span-social:before {
   content: "\ec00";
 }
 .mai-logo-internet-explorer:before {
